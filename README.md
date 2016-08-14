@@ -30,4 +30,12 @@ The second script is used to calculate the likelihood ratio test for the codeml 
 
 Feel free to use if you find it helpful, and ask questions. But I cannot guarantee any support whatsoever. There may not ever be any updates. Use at your own risk.
 
-Contact: dewuem1988 [at] gmail [com]
+# Contact:
+Daniel Elsner
+Evolutionary Biology & Ecology
+University of Freiburg
+GERMANY
+
+E-Mail: daniel.elsner [at] biologie . uni-freiburg . de
+
+(remove spaces and insert @ as appropriate)
