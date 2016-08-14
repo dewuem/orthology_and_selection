@@ -2,7 +2,7 @@
 
 ## Scripts used for orthology prediction together with OrthoMCL and selection analysis.
 
-### obtain-blast-score-construct-clusters-short.py
+### obtain-blast-score-construct-clusters.py
 
 As OrthoMCL can be too conservative in orthology prediction, this script is meant as a second round analysis of OrthoMCL clusters that do not only contain single copy orthologs.
 
@@ -21,7 +21,7 @@ Outgroup ID is hardcoded in the script and assumed to be present in the cluster,
 
 
 
-### calculate-lrt-corr-all-short.py
+### calculate-lrt.py
 
 The second script is used to calculate the likelihood ratio test for the codeml output. It uses the chi square test. Pipe into a singe file to get a table with all p values. You may want to correct for multiple testing afterwards.
 
